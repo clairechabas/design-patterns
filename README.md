@@ -7,6 +7,8 @@ They are a toolkit of solutions to common problems in software design and define
 
 This repository is for note taking during my learning journey going over different design patterns and their implementation in TypeScript.
 
+<br/>
+
 ## 🥡 Categories
 - Behavioral
 - Creational
