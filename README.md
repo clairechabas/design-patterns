@@ -10,9 +10,36 @@ This repository is for note taking during my learning journey going over differe
 <br/>
 
 ## 🥡 Categories
-- Behavioral
-- Creational
-- Structural
+**Creational (5)**
+These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+- Factory Method
+- Abstract Factory
+- Builder
+- Prototype
+- Singleton
+
+**Structural (7)**
+These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+**Behavioral (10)**
+These patterns are concerned with algorithms and the assignment of responsibilities between objects.
+- Chain of Responsibility
+- Command
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy ✅
+- Template Method
+- Visitor
 
 <br/>
 
